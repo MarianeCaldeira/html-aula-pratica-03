@@ -1,0 +1,11 @@
+{
+  "name": "atividade",
+  "version": "1.0.0",
+  "description": "respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "author": "mariane",
+  "license": "ISC"
+}
